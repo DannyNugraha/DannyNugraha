@@ -37,9 +37,9 @@ Every day is a new opportunity to grow, code, and create something awesome! 🚀
 ---
 
 ### 📫 Connect With Me
-- LinkedIn: [linkedin.com/in/namamu](https://linkedin.com)
+- LinkedIn: [linkedin.com/in/ahmad-danny-nugraha](https://linkedin.com)
 - Instagram: [@dannyngrha](https://instagram.com)
-- Email: danny@example.com
+- Email: ahmdddannyngrha25@gmail.com
 
 ---
 

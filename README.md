@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Hi, I'm Danny
-
 I'm a beginner in programming, currently focusing on becoming a **Full-Stack Web Developer**.  
 I enjoy building websites and learning how things work behind the scenes — from front-end to back-end.  
 Every day is a new opportunity to grow, code, and create something awesome! 🚀
